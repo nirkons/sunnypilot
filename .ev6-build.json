@@ -1,0 +1,13 @@
+{
+  "upstream": "sunnypilot/sunnypilot",
+  "upstream_staging_sha": "470720e921bac339426c0284af58bcd20163cbf8",
+  "upstream_source_sha": "27c132984df60e9ef42ebd1a805738b8c851356f",
+  "steering_limits": {
+    "max": 384,
+    "up": 3,
+    "down": 7
+  },
+  "sunnylink_lat_accel_step": 0.001,
+  "panda_h7_sha256": "173e8345e10977a030c021e57de6d43b1eff0d60209e1ebe56e718a31b591e34",
+  "generated_at_utc": "2026-10-17T10:07:26.212430+00:00"
+}
